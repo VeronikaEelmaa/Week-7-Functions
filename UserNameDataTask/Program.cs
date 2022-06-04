@@ -31,7 +31,7 @@ namespace UserNameDataTask
                     LengthUserNameData(userName);
                     break;
                 default:
-                    Console.WriteLine("Kena päeva!");
+                    Console.WriteLine("Seda valikut kahjuks polnud! Kena päeva!");
                     break;
             }
 
